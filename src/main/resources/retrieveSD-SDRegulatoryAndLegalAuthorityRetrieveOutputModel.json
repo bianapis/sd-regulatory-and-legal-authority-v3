@@ -1,0 +1,39 @@
+{
+  "regulatoryAndLegalAuthorityRetrieveActionTaskReference" : "SRATR795161",
+  "regulatoryAndLegalAuthorityRetrieveActionResponse" : "regulatoryAndLegalAuthorityRetrieveActionResponse",
+  "regulatoryAndLegalAuthorityOfferedService" : {
+    "regulatoryAndLegalAuthorityServiceRecord" : {
+      "regulatoryAndLegalAuthorityServiceVersion" : "regulatoryAndLegalAuthorityServiceVersion",
+      "regulatoryAndLegalAuthorityServiceType" : "regulatoryAndLegalAuthorityServiceType",
+      "regulatoryAndLegalAuthorityServiceSchedule" : "regulatoryAndLegalAuthorityServiceSchedule",
+      "regulatoryAndLegalAuthorityServicePoliciesandGuidelines" : {
+        "regulatoryAndLegalAuthorityServiceEligibility" : "regulatoryAndLegalAuthorityServiceEligibility",
+        "regulatoryAndLegalAuthorityServiceIntendedUses" : "regulatoryAndLegalAuthorityServiceIntendedUses",
+        "regulatoryAndLegalAuthorityServicePricingandTerms" : "regulatoryAndLegalAuthorityServicePricingandTerms"
+      },
+      "regulatoryAndLegalAuthorityServiceDescription" : "regulatoryAndLegalAuthorityServiceDescription"
+    },
+    "regulatoryAndLegalAuthorityServiceReference" : "776158"
+  },
+  "regulatoryAndLegalAuthorityRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "regulatoryAndLegalAuthorityPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "regulatoryAndLegalAuthorityActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "regulatoryAndLegalAuthorityRetrieveActionTaskRecord" : {}
+}

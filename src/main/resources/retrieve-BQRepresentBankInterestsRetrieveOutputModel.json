@@ -1,0 +1,26 @@
+{
+  "businessService" : "businessService",
+  "representBankInterestsBusinessUnitEmployeeReference" : "RBIBUR736513",
+  "representBankInterestsRetrieveActionResponse" : "representBankInterestsRetrieveActionResponse",
+  "representBankInterestsServiceInputsandOuputs" : "representBankInterestsServiceInputsandOuputs",
+  "representBankInterestsRetrieveActionTaskRecord" : {},
+  "representBankInterestsInstanceReport" : {
+    "representBankInterestsInstanceReportParameters" : "representBankInterestsInstanceReportParameters",
+    "representBankInterestsInstanceReportType" : "representBankInterestsInstanceReportType",
+    "representBankInterestsInstanceReport" : {},
+    "representBankInterestsInstanceReportRecord" : {}
+  },
+  "representBankInterestsServiceType" : "representBankInterestsServiceType",
+  "representBankInterestsServiceWorkProduct" : "representBankInterestsServiceWorkProduct",
+  "representBankInterestsPreconditions" : "representBankInterestsPreconditions",
+  "representBankInterestsRetrieveActionTaskReference" : "RBIRATR736805",
+  "representBankInterestsInstanceAnalysis" : {
+    "representBankInterestsInstanceAnalysisReport" : {},
+    "representBankInterestsInstanceAnalysisReportType" : "representBankInterestsInstanceAnalysisReportType",
+    "representBankInterestsInstanceAnalysisParameters" : "representBankInterestsInstanceAnalysisParameters",
+    "representBankInterestsInstanceAnalysisRecord" : {}
+  },
+  "representBankInterestsPostconditions" : "representBankInterestsPostconditions",
+  "representBankInterestsServiceDescription" : "representBankInterestsServiceDescription",
+  "representBankInterestsWorkSchedule" : "representBankInterestsWorkSchedule"
+}

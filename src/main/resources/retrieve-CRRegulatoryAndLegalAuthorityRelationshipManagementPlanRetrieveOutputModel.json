@@ -1,0 +1,21 @@
+{
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanReference" : "RALARMR786045",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanDescription" : "regulatoryAndLegalAuthorityRelationshipManagementPlanDescription",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord" : {},
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord" : {
+    "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportType" : "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportType",
+    "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReport" : {},
+    "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportData" : "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportData"
+  },
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanType" : "regulatoryAndLegalAuthorityRelationshipManagementPlanType",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanAssignment" : "regulatoryAndLegalAuthorityRelationshipManagementPlanAssignment",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanPlan" : "regulatoryAndLegalAuthorityRelationshipManagementPlanPlan",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskReference" : "RALARMRATR747180",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanBudgetType" : "regulatoryAndLegalAuthorityRelationshipManagementPlanBudgetType",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionResponse" : "regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionResponse",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis" : {
+    "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysisReport" : {},
+    "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysisReportType" : "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysisReportType",
+    "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysisData" : "regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysisData"
+  }
+}

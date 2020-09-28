@@ -1,0 +1,82 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis;
+import org.bian.dto.CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord;
+
+import javax.validation.Valid;
+  
+/**
+ * CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModel
+ */
+public class CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModel   {
+  private Object regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord = null;
+
+  private String regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest = null;
+
+  private CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord = null;
+
+  private CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis = null;
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Binary  general-info: The retrieve service call consolidated processing record 
+   * @return regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord
+  **/
+
+  public Object getRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord() {
+    return regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord;
+  }
+
+  public void setRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord(Object regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord) {
+    this.regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord = regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionTaskRecord;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Details of the retrieve action service request (lists requested reports) 
+   * @return regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest
+  **/
+
+  public String getRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest() {
+    return regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest;
+  }
+
+  public void setRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest(String regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest) {
+    this.regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest = regulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveActionRequest;
+  }
+
+
+  /**
+   * Get regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord
+   * @return regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord
+  **/
+
+  public CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord getRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord() {
+    return regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord;
+  }
+
+  public void setRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord(CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord) {
+    this.regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord = regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceReportRecord;
+  }
+
+
+  /**
+   * Get regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis
+   * @return regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis
+  **/
+
+  public CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis getRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis() {
+    return regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis;
+  }
+
+  public void setRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis(CRRegulatoryAndLegalAuthorityRelationshipManagementPlanRetrieveInputModelRegulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis) {
+    this.regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis = regulatoryAndLegalAuthorityRelationshipManagementPlanInstanceAnalysis;
+  }
+
+
+}
+

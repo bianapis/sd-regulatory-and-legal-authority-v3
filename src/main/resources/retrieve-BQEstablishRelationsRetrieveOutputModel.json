@@ -1,0 +1,26 @@
+{
+  "establishRelationsEstablishRelationsServiceDescription" : "establishRelationsEstablishRelationsServiceDescription",
+  "establishRelationsRetrieveActionTaskRecord" : {},
+  "establishRelationsRetrieveActionResponse" : "establishRelationsRetrieveActionResponse",
+  "establishRelationsEstablishRelationsServiceType" : "establishRelationsEstablishRelationsServiceType",
+  "establishRelationsInstanceReport" : {
+    "establishRelationsInstanceReportParameters" : "establishRelationsInstanceReportParameters",
+    "establishRelationsInstanceReportType" : "establishRelationsInstanceReportType",
+    "establishRelationsInstanceReport" : {},
+    "establishRelationsInstanceReportRecord" : {}
+  },
+  "establishRelationsInstanceAnalysis" : {
+    "establishRelationsInstanceAnalysisRecord" : {},
+    "establishRelationsInstanceAnalysisReport" : {},
+    "establishRelationsInstanceAnalysisReportType" : "establishRelationsInstanceAnalysisReportType",
+    "establishRelationsInstanceAnalysisParameters" : "establishRelationsInstanceAnalysisParameters"
+  },
+  "establishRelationsBusinessUnitEmployeeReference" : "ERBUR748373",
+  "establishRelationsPreconditions" : "establishRelationsPreconditions",
+  "establishRelationsWorkSchedule" : "establishRelationsWorkSchedule",
+  "establishRelationsEstablishRelationsServiceName" : "establishRelationsEstablishRelationsServiceName",
+  "establishRelationsEstablishRelationsServiceWorkProduct" : "establishRelationsEstablishRelationsServiceWorkProduct",
+  "establishRelationsPostconditions" : "establishRelationsPostconditions",
+  "establishRelationsEstablishRelationsServiceInputsandOuputs" : "establishRelationsEstablishRelationsServiceInputsandOuputs",
+  "establishRelationsRetrieveActionTaskReference" : "ERRATR765051"
+}

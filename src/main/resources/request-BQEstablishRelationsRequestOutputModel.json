@@ -1,0 +1,15 @@
+{
+  "establishRelationsEstablishRelationsServiceDescription" : "establishRelationsEstablishRelationsServiceDescription",
+  "establishRelationsEstablishRelationsServiceType" : "establishRelationsEstablishRelationsServiceType",
+  "requestResponseRecord" : {},
+  "establishRelationsBusinessUnitEmployeeReference" : "ERBUR747872",
+  "establishRelationsPreconditions" : "establishRelationsPreconditions",
+  "establishRelationsWorkSchedule" : "establishRelationsWorkSchedule",
+  "establishRelationsEstablishRelationsServiceName" : "establishRelationsEstablishRelationsServiceName",
+  "establishRelationsEstablishRelationsServiceWorkProduct" : "establishRelationsEstablishRelationsServiceWorkProduct",
+  "establishRelationsPostconditions" : "establishRelationsPostconditions",
+  "establishRelationsEstablishRelationsServiceInputsandOuputs" : "establishRelationsEstablishRelationsServiceInputsandOuputs",
+  "establishRelationsRequestActionTaskRecord" : {},
+  "establishRelationsRequestRecordReference" : "ERRRR737196",
+  "establishRelationsRequestActionTaskReference" : "ERRATR723863"
+}

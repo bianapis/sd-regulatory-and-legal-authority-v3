@@ -1,0 +1,14 @@
+{
+  "establishRelationsBusinessUnitEmployeeReference" : "ERBUR760892",
+  "establishRelationsUpdateActionTaskReference" : "ERUATR752868",
+  "establishRelationsPreconditions" : "establishRelationsPreconditions",
+  "establishRelationsWorkSchedule" : "establishRelationsWorkSchedule",
+  "establishRelationsEstablishRelationsServiceDescription" : "establishRelationsEstablishRelationsServiceDescription",
+  "establishRelationsEstablishRelationsServiceName" : "establishRelationsEstablishRelationsServiceName",
+  "establishRelationsEstablishRelationsServiceWorkProduct" : "establishRelationsEstablishRelationsServiceWorkProduct",
+  "establishRelationsPostconditions" : "establishRelationsPostconditions",
+  "updateResponseRecord" : {},
+  "establishRelationsEstablishRelationsServiceType" : "establishRelationsEstablishRelationsServiceType",
+  "establishRelationsEstablishRelationsServiceInputsandOuputs" : "establishRelationsEstablishRelationsServiceInputsandOuputs",
+  "establishRelationsUpdateActionTaskRecord" : {}
+}

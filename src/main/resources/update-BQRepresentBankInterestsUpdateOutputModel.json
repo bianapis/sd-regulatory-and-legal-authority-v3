@@ -1,0 +1,14 @@
+{
+  "representBankInterestsPreconditions" : "representBankInterestsPreconditions",
+  "businessService" : "businessService",
+  "representBankInterestsBusinessUnitEmployeeReference" : "RBIBUR705932",
+  "representBankInterestsServiceInputsandOuputs" : "representBankInterestsServiceInputsandOuputs",
+  "representBankInterestsPostconditions" : "representBankInterestsPostconditions",
+  "updateResponseRecord" : {},
+  "representBankInterestsUpdateActionTaskRecord" : {},
+  "representBankInterestsServiceType" : "representBankInterestsServiceType",
+  "representBankInterestsUpdateActionTaskReference" : "RBIUATR727852",
+  "representBankInterestsServiceDescription" : "representBankInterestsServiceDescription",
+  "representBankInterestsServiceWorkProduct" : "representBankInterestsServiceWorkProduct",
+  "representBankInterestsWorkSchedule" : "representBankInterestsWorkSchedule"
+}

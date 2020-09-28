@@ -1,0 +1,26 @@
+{
+  "maintainRelationsWorkSchedule" : "maintainRelationsWorkSchedule",
+  "maintainRelationsInstanceAnalysis" : {
+    "maintainRelationsInstanceAnalysisReport" : {},
+    "maintainRelationsInstanceAnalysisRecord" : {},
+    "maintainRelationsInstanceAnalysisReportType" : "maintainRelationsInstanceAnalysisReportType",
+    "maintainRelationsInstanceAnalysisParameters" : "maintainRelationsInstanceAnalysisParameters"
+  },
+  "maintainRelationsRetrieveActionTaskReference" : "MRRATR722707",
+  "maintainRelationsPostconditions" : "maintainRelationsPostconditions",
+  "maintainRelationsMaintainRelationsServiceDescription" : "maintainRelationsMaintainRelationsServiceDescription",
+  "maintainRelationsMaintainRelationsServiceType" : "maintainRelationsMaintainRelationsServiceType",
+  "maintainRelationsMaintainRelationsServiceWorkProduct" : "maintainRelationsMaintainRelationsServiceWorkProduct",
+  "maintainRelationsRetrieveActionResponse" : "maintainRelationsRetrieveActionResponse",
+  "maintainRelationsMaintainRelationsServiceInputsandOuputs" : "maintainRelationsMaintainRelationsServiceInputsandOuputs",
+  "maintainRelationsBusinessUnitEmployeeReference" : "MRBUR780520",
+  "maintainRelationsPreconditions" : "maintainRelationsPreconditions",
+  "maintainRelationsRetrieveActionTaskRecord" : {},
+  "maintainRelationsInstanceReport" : {
+    "maintainRelationsInstanceReportParameters" : "maintainRelationsInstanceReportParameters",
+    "maintainRelationsInstanceReportType" : "maintainRelationsInstanceReportType",
+    "maintainRelationsInstanceReportRecord" : {},
+    "maintainRelationsInstanceReport" : {}
+  },
+  "maintainRelationsMaintainRelationsServiceName" : "maintainRelationsMaintainRelationsServiceName"
+}

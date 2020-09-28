@@ -1,0 +1,21 @@
+{
+  "regulatoryAndLegalAuthorityConfigurationActionTaskRecord" : {},
+  "regulatoryAndLegalAuthorityServiceConfigurationRecord" : {
+    "regulatoryAndLegalAuthorityServiceSubscription" : {
+      "regulatoryAndLegalAuthorityServiceSubscriberAccessProfile" : "regulatoryAndLegalAuthorityServiceSubscriberAccessProfile",
+      "regulatoryAndLegalAuthorityServiceSubscriberReference" : "756221"
+    },
+    "regulatoryAndLegalAuthorityServiceStatus" : "regulatoryAndLegalAuthorityServiceStatus",
+    "regulatoryAndLegalAuthorityServiceConfigurationSetup" : {
+      "regulatoryAndLegalAuthorityServiceConfigurationParameter" : "regulatoryAndLegalAuthorityServiceConfigurationParameter"
+    },
+    "regulatoryAndLegalAuthorityServiceConfigurationSettingDescription" : "regulatoryAndLegalAuthorityServiceConfigurationSettingDescription",
+    "regulatoryAndLegalAuthorityServiceAgreement" : {
+      "regulatoryAndLegalAuthorityServiceUserReference" : "733696",
+      "regulatoryAndLegalAuthorityServiceAgreementTermsandConditions" : "regulatoryAndLegalAuthorityServiceAgreementTermsandConditions",
+      "regulatoryAndLegalAuthorityServiceAgreementReference" : "721156"
+    }
+  },
+  "regulatoryAndLegalAuthorityConfigurationActionTaskReference" : "SCATR765419",
+  "regulatoryAndLegalAuthorityServicingSessionStatus" : "regulatoryAndLegalAuthorityServicingSessionStatus"
+}

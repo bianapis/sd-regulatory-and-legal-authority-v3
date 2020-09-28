@@ -1,0 +1,24 @@
+{
+  "regulatoryAndLegalAuthorityServicingSessionReference" : "SSSR783215",
+  "regulatoryAndLegalAuthorityServicingSessionRecord" : {},
+  "regulatoryAndLegalAuthorityServiceConfigurationRecord" : {
+    "regulatoryAndLegalAuthorityServiceSubscription" : {
+      "regulatoryAndLegalAuthorityServiceSubscriberAccessProfile" : "regulatoryAndLegalAuthorityServiceSubscriberAccessProfile",
+      "regulatoryAndLegalAuthorityServiceSubscriberReference" : "769192"
+    },
+    "regulatoryAndLegalAuthorityServiceStatus" : "regulatoryAndLegalAuthorityServiceStatus",
+    "regulatoryAndLegalAuthorityServiceConfigurationSetup" : {
+      "regulatoryAndLegalAuthorityServiceConfigurationParameter" : "regulatoryAndLegalAuthorityServiceConfigurationParameter"
+    },
+    "regulatoryAndLegalAuthorityServiceConfigurationSettingReference" : "700761",
+    "regulatoryAndLegalAuthorityServiceConfigurationSettingDescription" : "regulatoryAndLegalAuthorityServiceConfigurationSettingDescription",
+    "regulatoryAndLegalAuthorityServiceAgreement" : {
+      "regulatoryAndLegalAuthorityServiceUserReference" : "767210",
+      "regulatoryAndLegalAuthorityServiceAgreementTermsandConditions" : "regulatoryAndLegalAuthorityServiceAgreementTermsandConditions",
+      "regulatoryAndLegalAuthorityServiceAgreementReference" : "791202"
+    }
+  },
+  "regulatoryAndLegalAuthorityActivationActionTaskRecord" : {},
+  "regulatoryAndLegalAuthorityServicingSessionStatus" : "regulatoryAndLegalAuthorityServicingSessionStatus",
+  "regulatoryAndLegalAuthorityActivationActionTaskReference" : "SAATR758836"
+}

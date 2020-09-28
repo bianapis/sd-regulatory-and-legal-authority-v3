@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "troubleshootingServiceWorkProduct" : "troubleshootingServiceWorkProduct",
+  "troubleshootingCaptureActionTaskRecord" : {},
+  "troubleshootingServiceType" : "troubleshootingServiceType",
+  "troubleshootingServiceDescription" : "troubleshootingServiceDescription",
+  "troubleshootingWorkSchedule" : "troubleshootingWorkSchedule",
+  "troubleshootingCaptureActionTaskReference" : "TCATR708252",
+  "troubleshootingCaptureRecordReference" : "TCRR766919",
+  "troubleshootingServiceInputsandOuputs" : "troubleshootingServiceInputsandOuputs",
+  "troubleshootingPreconditions" : "troubleshootingPreconditions",
+  "troubleshootingPostconditions" : "troubleshootingPostconditions",
+  "troubleshootingServiceName" : "troubleshootingServiceName",
+  "troubleshootingBusinessUnitEmployeeReference" : "TBUR789527",
+  "captureResponseRecord" : {}
+}

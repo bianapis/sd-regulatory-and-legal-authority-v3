@@ -1,0 +1,16 @@
+{
+  "businessService" : "businessService",
+  "troubleshootingServiceWorkProduct" : "troubleshootingServiceWorkProduct",
+  "troubleshootingInstanceStatus" : "troubleshootingInstanceStatus",
+  "troubleshootingInitiateActionRecord" : {},
+  "troubleshootingServiceType" : "troubleshootingServiceType",
+  "troubleshootingInitiateActionReference" : "TIAR762095",
+  "troubleshootingServiceDescription" : "troubleshootingServiceDescription",
+  "troubleshootingWorkSchedule" : "troubleshootingWorkSchedule",
+  "troubleshootingInstanceReference" : "TIR737172",
+  "troubleshootingServiceInputsandOuputs" : "troubleshootingServiceInputsandOuputs",
+  "troubleshootingPreconditions" : "troubleshootingPreconditions",
+  "troubleshootingPostconditions" : "troubleshootingPostconditions",
+  "troubleshootingServiceName" : "troubleshootingServiceName",
+  "troubleshootingBusinessUnitEmployeeReference" : "TBUR752715"
+}

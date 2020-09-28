@@ -1,0 +1,14 @@
+{
+  "maintainRelationsMaintainRelationsServiceWorkProduct" : "maintainRelationsMaintainRelationsServiceWorkProduct",
+  "maintainRelationsUpdateActionTaskRecord" : {},
+  "maintainRelationsMaintainRelationsServiceInputsandOuputs" : "maintainRelationsMaintainRelationsServiceInputsandOuputs",
+  "maintainRelationsWorkSchedule" : "maintainRelationsWorkSchedule",
+  "maintainRelationsBusinessUnitEmployeeReference" : "MRBUR714953",
+  "maintainRelationsUpdateActionTaskReference" : "MRUATR751087",
+  "updateResponseRecord" : {},
+  "maintainRelationsPreconditions" : "maintainRelationsPreconditions",
+  "maintainRelationsPostconditions" : "maintainRelationsPostconditions",
+  "maintainRelationsMaintainRelationsServiceDescription" : "maintainRelationsMaintainRelationsServiceDescription",
+  "maintainRelationsMaintainRelationsServiceType" : "maintainRelationsMaintainRelationsServiceType",
+  "maintainRelationsMaintainRelationsServiceName" : "maintainRelationsMaintainRelationsServiceName"
+}

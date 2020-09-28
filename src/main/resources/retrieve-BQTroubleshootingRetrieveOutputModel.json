@@ -1,0 +1,27 @@
+{
+  "businessService" : "businessService",
+  "troubleshootingServiceWorkProduct" : "troubleshootingServiceWorkProduct",
+  "troubleshootingInstanceReport" : {
+    "troubleshootingInstanceReportParameters" : "troubleshootingInstanceReportParameters",
+    "troubleshootingInstanceReportType" : "troubleshootingInstanceReportType",
+    "troubleshootingInstanceReport" : {},
+    "troubleshootingInstanceReportRecord" : {}
+  },
+  "troubleshootingServiceType" : "troubleshootingServiceType",
+  "troubleshootingRetrieveActionTaskRecord" : {},
+  "troubleshootingServiceDescription" : "troubleshootingServiceDescription",
+  "troubleshootingWorkSchedule" : "troubleshootingWorkSchedule",
+  "troubleshootingInstanceAnalysis" : {
+    "troubleshootingInstanceAnalysisParameters" : "troubleshootingInstanceAnalysisParameters",
+    "troubleshootingInstanceAnalysisReportType" : "troubleshootingInstanceAnalysisReportType",
+    "troubleshootingInstanceAnalysisReport" : {},
+    "troubleshootingInstanceAnalysisRecord" : {}
+  },
+  "troubleshootingRetrieveActionTaskReference" : "TRATR748076",
+  "troubleshootingServiceInputsandOuputs" : "troubleshootingServiceInputsandOuputs",
+  "troubleshootingPreconditions" : "troubleshootingPreconditions",
+  "troubleshootingPostconditions" : "troubleshootingPostconditions",
+  "troubleshootingRetrieveActionResponse" : "troubleshootingRetrieveActionResponse",
+  "troubleshootingServiceName" : "troubleshootingServiceName",
+  "troubleshootingBusinessUnitEmployeeReference" : "TBUR728010"
+}

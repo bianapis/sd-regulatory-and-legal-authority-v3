@@ -1,0 +1,11 @@
+{
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanGrantActionTaskReference" : "RALARMGATR792695",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanAssignment" : "regulatoryAndLegalAuthorityRelationshipManagementPlanAssignment",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanPlan" : "regulatoryAndLegalAuthorityRelationshipManagementPlanPlan",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanBudgetType" : "regulatoryAndLegalAuthorityRelationshipManagementPlanBudgetType",
+  "regulatoryAndLegalAuthorityRelationshipManagementPlanGrantActionTaskRecord" : {},
+  "grantRequestRecordReference" : "GRRR715040"
+}

@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordControlRecordPortfolioAnalysis;
+import org.bian.dto.SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityActivityAnalysis;
+import org.bian.dto.SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityPerformanceAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecord
+ */
+public class SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecord   {
+  private SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityActivityAnalysis regulatoryAndLegalAuthorityActivityAnalysis = null;
+
+  private SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityPerformanceAnalysis regulatoryAndLegalAuthorityPerformanceAnalysis = null;
+
+  private SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get regulatoryAndLegalAuthorityActivityAnalysis
+   * @return regulatoryAndLegalAuthorityActivityAnalysis
+  **/
+
+  public SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityActivityAnalysis getRegulatoryAndLegalAuthorityActivityAnalysis() {
+    return regulatoryAndLegalAuthorityActivityAnalysis;
+  }
+
+  public void setRegulatoryAndLegalAuthorityActivityAnalysis(SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityActivityAnalysis regulatoryAndLegalAuthorityActivityAnalysis) {
+    this.regulatoryAndLegalAuthorityActivityAnalysis = regulatoryAndLegalAuthorityActivityAnalysis;
+  }
+
+
+  /**
+   * Get regulatoryAndLegalAuthorityPerformanceAnalysis
+   * @return regulatoryAndLegalAuthorityPerformanceAnalysis
+  **/
+
+  public SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityPerformanceAnalysis getRegulatoryAndLegalAuthorityPerformanceAnalysis() {
+    return regulatoryAndLegalAuthorityPerformanceAnalysis;
+  }
+
+  public void setRegulatoryAndLegalAuthorityPerformanceAnalysis(SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordRegulatoryAndLegalAuthorityPerformanceAnalysis regulatoryAndLegalAuthorityPerformanceAnalysis) {
+    this.regulatoryAndLegalAuthorityPerformanceAnalysis = regulatoryAndLegalAuthorityPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDRegulatoryAndLegalAuthorityRetrieveOutputModelRegulatoryAndLegalAuthorityRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+
